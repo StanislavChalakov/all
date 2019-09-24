@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>YoungestPerson</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="js-console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+        function findYoungest(arr) {
+            var youngestPersonPosition = 0;
+            var youngestPersonAge = 200;
+
+            for (var i in arr) {
+                if (arr[i].age < youngestPersonAge) {
+                    youngestPersonAge = arr[i].age;
+                    youngestPersonPosition = i;
+                }
+            }
+
+            document.write(arr[youngestPersonPosition].firstname + "</br>"
+                          + arr[youngestPersonPosition].lastname + "</br>"
+                          + arr[youngestPersonPosition].age + "</br>");
+        }
+
+        var persons = [
+        {firstname : "Chicho", lastname: "Gosho", age: 120}, 
+        { firstname: "Lelq", lastname: "Zoika", age: 77 },
+        { firstname: "Bacho", lastname: "Kiko", age: 33 }];
+
+        findYoungest(persons);
+    </script>
+</body>
+</html>

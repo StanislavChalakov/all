@@ -1,0 +1,5 @@
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\NumeralSystems\NumeralSystems_Homework\ClassesAndObjectsHomework\6.SumOfNumbersInString\bin\Debug\6.SumOfNumbersInString.exe.config
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\NumeralSystems\NumeralSystems_Homework\ClassesAndObjectsHomework\6.SumOfNumbersInString\bin\Debug\6.SumOfNumbersInString.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\NumeralSystems\NumeralSystems_Homework\ClassesAndObjectsHomework\6.SumOfNumbersInString\bin\Debug\6.SumOfNumbersInString.pdb
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\NumeralSystems\NumeralSystems_Homework\ClassesAndObjectsHomework\6.SumOfNumbersInString\obj\Debug\6.SumOfNumbersInString.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\NumeralSystems\NumeralSystems_Homework\ClassesAndObjectsHomework\6.SumOfNumbersInString\obj\Debug\6.SumOfNumbersInString.pdb

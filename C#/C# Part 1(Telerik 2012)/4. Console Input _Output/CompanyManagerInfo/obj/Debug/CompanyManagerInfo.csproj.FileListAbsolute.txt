@@ -1,0 +1,6 @@
+C:\Users\Yoshicore\Desktop\C#\ConsoleInOut\ConsoleInOut_Homework\CompanyManagerInfo\bin\Debug\CompanyManagerInfo.exe.config
+C:\Users\Yoshicore\Desktop\C#\ConsoleInOut\ConsoleInOut_Homework\CompanyManagerInfo\bin\Debug\CompanyManagerInfo.exe
+C:\Users\Yoshicore\Desktop\C#\ConsoleInOut\ConsoleInOut_Homework\CompanyManagerInfo\bin\Debug\CompanyManagerInfo.pdb
+C:\Users\Yoshicore\Desktop\C#\ConsoleInOut\ConsoleInOut_Homework\CompanyManagerInfo\obj\Debug\CompanyManagerInfo.csprojResolveAssemblyReference.cache
+C:\Users\Yoshicore\Desktop\C#\ConsoleInOut\ConsoleInOut_Homework\CompanyManagerInfo\obj\Debug\CompanyManagerInfo.exe
+C:\Users\Yoshicore\Desktop\C#\ConsoleInOut\ConsoleInOut_Homework\CompanyManagerInfo\obj\Debug\CompanyManagerInfo.pdb

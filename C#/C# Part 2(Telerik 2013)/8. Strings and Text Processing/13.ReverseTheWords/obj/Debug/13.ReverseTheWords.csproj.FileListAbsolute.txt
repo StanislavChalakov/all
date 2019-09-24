@@ -1,0 +1,5 @@
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\StringsAndTextProcessing\StringsAndTextProcessingHomework\13.ReverseTheWords\bin\Debug\13.ReverseTheWords.exe.config
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\StringsAndTextProcessing\StringsAndTextProcessingHomework\13.ReverseTheWords\bin\Debug\13.ReverseTheWords.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\StringsAndTextProcessing\StringsAndTextProcessingHomework\13.ReverseTheWords\bin\Debug\13.ReverseTheWords.pdb
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\StringsAndTextProcessing\StringsAndTextProcessingHomework\13.ReverseTheWords\obj\Debug\13.ReverseTheWords.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\StringsAndTextProcessing\StringsAndTextProcessingHomework\13.ReverseTheWords\obj\Debug\13.ReverseTheWords.pdb

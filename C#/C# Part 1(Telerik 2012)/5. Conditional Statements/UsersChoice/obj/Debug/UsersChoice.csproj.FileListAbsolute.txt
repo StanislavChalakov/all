@@ -1,0 +1,5 @@
+C:\Users\Yoshicore\Desktop\C#\Conditional Statements\Conditional Statements_Homework\Conditional Statements\UsersChoice\bin\Debug\UsersChoice.exe.config
+C:\Users\Yoshicore\Desktop\C#\Conditional Statements\Conditional Statements_Homework\Conditional Statements\UsersChoice\bin\Debug\UsersChoice.exe
+C:\Users\Yoshicore\Desktop\C#\Conditional Statements\Conditional Statements_Homework\Conditional Statements\UsersChoice\bin\Debug\UsersChoice.pdb
+C:\Users\Yoshicore\Desktop\C#\Conditional Statements\Conditional Statements_Homework\Conditional Statements\UsersChoice\obj\Debug\UsersChoice.exe
+C:\Users\Yoshicore\Desktop\C#\Conditional Statements\Conditional Statements_Homework\Conditional Statements\UsersChoice\obj\Debug\UsersChoice.pdb

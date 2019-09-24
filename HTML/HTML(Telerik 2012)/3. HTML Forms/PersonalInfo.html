@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>PersonalInfo</title>
+</head>
+<body>
+	<form>
+		<table border="1" cellspasing="0" cellpadding="0" width="666" style="border-collapse:collapse">
+			<tfoot style="background-color:#66CC66">
+				<tr>
+					<td colspan="4" align="center">
+						<input type="submit" name="submitbtn" value="Submit">
+						<input type="reset" name="clearform" value="Clear This Form">
+					<td>
+				</tr>
+			</tfoot>
+			<tbody>	
+				<tr>
+					<th><label for="lastname">Last Name</label></th>
+					<td colspan="3"><input id="lastname" type="name" value="Chalykov" required="true"></td>
+				</tr>
+				<tr>
+					<th><label for="firstname">First Name</label></th>
+					<td colspan="3"><input id="firstname" type="name" value="Stanislav" required="true"></td>
+				</tr>
+				<tr>
+					<th><label for="address">Address</label></th>
+					<td colspan="3"><textarea id="address" cols="44" rows="4">Mladost 4 Block 432 Entry A Ap.25</textarea></td>
+				</tr>
+				<tr>
+					<th><label for="city">City</label></th>
+					<td><input id="city" type="text" value="Sofia"></td>
+					<th><label for="state">State</label></th>
+					<td><input id="state" type="text" size="11"></td>
+				</tr>
+				<tr>
+					<th><label for="zip">Zip/Postal Code</label></th>
+					<td colspan="3"><input id="zip" type="code" value="1000" required="true"></td>
+				</tr>
+				<tr>
+					<th><label for="country">Country</label></th>
+					<td colspan="3">
+						<select name="country">
+							<option value="Bulgaria" selected="selected">Bulgaria</option>
+							<option value="France">France</option>
+							<option value="Brazil">Brazil</option>
+	 					</select>
+	 				</td>
+				</tr>
+				<tr>
+					<th><label for="phone">Phone(Country Code,Area Code,Number)</label></th>
+					<td colspan="3">(+
+						<input type="phone" id="phone" required="true" value="359" size="3" maxlength="3">)
+						<input type="phone" value="887" size="3" maxlength="3">
+						<input type="phone" value="235647" size="6" maxlength="6">
+					</td>
+				</tr>
+				<tr>
+					<th><label for="email">Email</label></th>
+					<td colspan="3"><input id="email" type="email" value="4rrogance@gmail.com" required="true"></td>
+				</tr>
+				<tr>
+					<th><label for="bdate">Birth Date</label></th>
+					<td colspan="3">
+						Month<input id="bdate" type="month" value="09" size="2" maxlength="2">
+						Day<input type="day" value="26" size="2" maxlength="2">
+						Year(4 digit)<input type="year" value="1989" size="4" maxlength="4">
+					</td>
+				</tr>
+				<tr>
+					<th><label for="gender">Gender</label></th>
+					<td colspan="3">
+							Male<input type="radio" id="gender" name="gender" value="Male">
+							Female<input type="radio" name="gender" value="Female">
+					</td>
+				</tr>
+				<tr>
+					<th><label for="comments">Comments/Questions</label></th>
+					<td colspan="3"><textarea id="comments" cols="44" rows="4">Type here if u have questions</textarea></td>
+				</tr>
+			</tbody>	
+		</table>
+	</form>
+</body>
+</html>

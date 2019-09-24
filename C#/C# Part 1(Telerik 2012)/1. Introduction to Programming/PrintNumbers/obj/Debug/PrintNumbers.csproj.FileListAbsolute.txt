@@ -1,0 +1,8 @@
+C:\Users\Yoshicore\Desktop\C#\IntroC#\IntroCSharpHomework\IntroCSharpHomework\PrintNumbers\bin\Debug\PrintNumbers.exe.config
+C:\Users\Yoshicore\Desktop\C#\IntroC#\IntroCSharpHomework\IntroCSharpHomework\PrintNumbers\bin\Debug\PrintNumbers.exe
+C:\Users\Yoshicore\Desktop\C#\IntroC#\IntroCSharpHomework\IntroCSharpHomework\PrintNumbers\bin\Debug\PrintNumbers.pdb
+C:\Users\Yoshicore\Desktop\C#\IntroC#\IntroCSharpHomework\IntroCSharpHomework\PrintNumbers\obj\Debug\PrintNumbers.exe
+C:\Users\Yoshicore\Desktop\C#\IntroC#\IntroCSharpHomework\IntroCSharpHomework\PrintNumbers\obj\Debug\PrintNumbers.pdb
+C:\Users\Yoshicore\Desktop\C#\IntroC#\IntroCSharpHomework\PrintNumbers\bin\Debug\PrintNumbers.exe.config
+C:\Users\Yoshicore\Desktop\C#\IntroC#\IntroCSharpHomework\PrintNumbers\obj\Debug\PrintNumbers.exe
+C:\Users\Yoshicore\Desktop\C#\IntroC#\IntroCSharpHomework\PrintNumbers\obj\Debug\PrintNumbers.pdb

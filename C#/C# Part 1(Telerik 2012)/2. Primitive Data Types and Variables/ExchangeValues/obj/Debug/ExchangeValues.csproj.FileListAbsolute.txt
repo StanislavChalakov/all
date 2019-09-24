@@ -1,0 +1,5 @@
+C:\Users\Yoshicore\Desktop\C#\PrimeDataTypesAndVariables\PrimeDataTypesAndVariables\ExchangeValues\bin\Debug\ExchangeValues.exe.config
+C:\Users\Yoshicore\Desktop\C#\PrimeDataTypesAndVariables\PrimeDataTypesAndVariables\ExchangeValues\bin\Debug\ExchangeValues.exe
+C:\Users\Yoshicore\Desktop\C#\PrimeDataTypesAndVariables\PrimeDataTypesAndVariables\ExchangeValues\bin\Debug\ExchangeValues.pdb
+C:\Users\Yoshicore\Desktop\C#\PrimeDataTypesAndVariables\PrimeDataTypesAndVariables\ExchangeValues\obj\Debug\ExchangeValues.exe
+C:\Users\Yoshicore\Desktop\C#\PrimeDataTypesAndVariables\PrimeDataTypesAndVariables\ExchangeValues\obj\Debug\ExchangeValues.pdb

@@ -1,0 +1,5 @@
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\NumeralSystems\NumeralSystems_Homework\ClassesAndObjectsHomework\3.DayOfTheWeek\bin\Debug\3.DayOfTheWeek.exe.config
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\NumeralSystems\NumeralSystems_Homework\ClassesAndObjectsHomework\3.DayOfTheWeek\bin\Debug\3.DayOfTheWeek.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\NumeralSystems\NumeralSystems_Homework\ClassesAndObjectsHomework\3.DayOfTheWeek\bin\Debug\3.DayOfTheWeek.pdb
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\NumeralSystems\NumeralSystems_Homework\ClassesAndObjectsHomework\3.DayOfTheWeek\obj\Debug\3.DayOfTheWeek.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\NumeralSystems\NumeralSystems_Homework\ClassesAndObjectsHomework\3.DayOfTheWeek\obj\Debug\3.DayOfTheWeek.pdb

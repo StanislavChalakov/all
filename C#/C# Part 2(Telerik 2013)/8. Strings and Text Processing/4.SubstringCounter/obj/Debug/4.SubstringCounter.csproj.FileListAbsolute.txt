@@ -1,0 +1,6 @@
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\StringsAndTextProcessing\StringsAndTextProcessingHomework\4.SubstringCounter\bin\Debug\4.SubstringCounter.exe.config
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\StringsAndTextProcessing\StringsAndTextProcessingHomework\4.SubstringCounter\obj\Debug\4.SubstringCounter.csprojResolveAssemblyReference.cache
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\StringsAndTextProcessing\StringsAndTextProcessingHomework\4.SubstringCounter\bin\Debug\4.SubstringCounter.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\StringsAndTextProcessing\StringsAndTextProcessingHomework\4.SubstringCounter\bin\Debug\4.SubstringCounter.pdb
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\StringsAndTextProcessing\StringsAndTextProcessingHomework\4.SubstringCounter\obj\Debug\4.SubstringCounter.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\StringsAndTextProcessing\StringsAndTextProcessingHomework\4.SubstringCounter\obj\Debug\4.SubstringCounter.pdb

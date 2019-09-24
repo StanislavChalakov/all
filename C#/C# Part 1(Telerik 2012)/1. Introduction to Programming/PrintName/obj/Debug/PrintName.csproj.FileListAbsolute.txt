@@ -1,0 +1,10 @@
+C:\Users\Yoshicore\Desktop\C#\IntroC#\IntroCSharpHomework\IntroCSharpHomework\PrintName\bin\Debug\PrintName.exe.config
+C:\Users\Yoshicore\Desktop\C#\IntroC#\IntroCSharpHomework\IntroCSharpHomework\PrintName\bin\Debug\PrintName.exe
+C:\Users\Yoshicore\Desktop\C#\IntroC#\IntroCSharpHomework\IntroCSharpHomework\PrintName\bin\Debug\PrintName.pdb
+C:\Users\Yoshicore\Desktop\C#\IntroC#\IntroCSharpHomework\IntroCSharpHomework\PrintName\obj\Debug\PrintName.exe
+C:\Users\Yoshicore\Desktop\C#\IntroC#\IntroCSharpHomework\IntroCSharpHomework\PrintName\obj\Debug\PrintName.pdb
+C:\Users\Yoshicore\Desktop\C#\IntroC#\IntroCSharpHomework\PrintName\bin\Debug\PrintName.exe.config
+C:\Users\Yoshicore\Desktop\C#\IntroC#\IntroCSharpHomework\PrintName\obj\Debug\PrintName.exe
+C:\Users\Yoshicore\Desktop\C#\IntroC#\IntroCSharpHomework\PrintName\obj\Debug\PrintName.pdb
+C:\Users\Yoshicore\Desktop\C#\IntroC#\IntroCSharpHomework\PrintName\bin\Debug\PrintName.exe
+C:\Users\Yoshicore\Desktop\C#\IntroC#\IntroCSharpHomework\PrintName\bin\Debug\PrintName.pdb

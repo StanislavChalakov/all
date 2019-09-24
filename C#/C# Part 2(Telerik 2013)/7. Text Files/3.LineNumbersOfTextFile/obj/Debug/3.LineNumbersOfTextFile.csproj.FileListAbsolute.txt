@@ -1,0 +1,5 @@
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\TextFiles\TextFilesHomework\Blank\3.LineNumbersOfTextFile\bin\Debug\3.LineNumbersOfTextFile.exe.config
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\TextFiles\TextFilesHomework\Blank\3.LineNumbersOfTextFile\bin\Debug\3.LineNumbersOfTextFile.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\TextFiles\TextFilesHomework\Blank\3.LineNumbersOfTextFile\bin\Debug\3.LineNumbersOfTextFile.pdb
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\TextFiles\TextFilesHomework\Blank\3.LineNumbersOfTextFile\obj\Debug\3.LineNumbersOfTextFile.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\TextFiles\TextFilesHomework\Blank\3.LineNumbersOfTextFile\obj\Debug\3.LineNumbersOfTextFile.pdb

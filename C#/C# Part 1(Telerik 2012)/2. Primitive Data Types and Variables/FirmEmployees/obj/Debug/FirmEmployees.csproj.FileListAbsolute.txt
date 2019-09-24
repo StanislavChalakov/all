@@ -1,0 +1,8 @@
+C:\Users\Yoshicore\Desktop\C#\PrimeDataTypesAndVariables\PrimeDataTypesAndVariables\FirmEmployees\bin\Debug\FirmEmployees.exe.config
+C:\Users\Yoshicore\Desktop\C#\PrimeDataTypesAndVariables\PrimeDataTypesAndVariables\FirmEmployees\bin\Debug\FirmEmployees.exe
+C:\Users\Yoshicore\Desktop\C#\PrimeDataTypesAndVariables\PrimeDataTypesAndVariables\FirmEmployees\bin\Debug\FirmEmployees.pdb
+C:\Users\Yoshicore\Desktop\C#\PrimeDataTypesAndVariables\PrimeDataTypesAndVariables\FirmEmployees\obj\Debug\FirmEmployees.exe
+C:\Users\Yoshicore\Desktop\C#\PrimeDataTypesAndVariables\PrimeDataTypesAndVariables\FirmEmployees\obj\Debug\FirmEmployees.pdb
+C:\Users\Yoshicore\Desktop\C#\PrimeDataTypesAndVariables\PrimeDataTypesAndVariables_Homework\FirmEmployees\bin\Debug\FirmEmployees.exe.config
+C:\Users\Yoshicore\Desktop\C#\PrimeDataTypesAndVariables\PrimeDataTypesAndVariables_Homework\FirmEmployees\obj\Debug\FirmEmployees.exe
+C:\Users\Yoshicore\Desktop\C#\PrimeDataTypesAndVariables\PrimeDataTypesAndVariables_Homework\FirmEmployees\obj\Debug\FirmEmployees.pdb

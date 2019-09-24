@@ -1,0 +1,6 @@
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Arrays\Arrays_Homework\ArraysHomework\6.MaximalSumOfElements\bin\Debug\6.MaximalSumOfElements.exe.config
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Arrays\Arrays_Homework\ArraysHomework\6.MaximalSumOfElements\bin\Debug\6.MaximalSumOfElements.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Arrays\Arrays_Homework\ArraysHomework\6.MaximalSumOfElements\bin\Debug\6.MaximalSumOfElements.pdb
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Arrays\Arrays_Homework\ArraysHomework\6.MaximalSumOfElements\obj\Debug\6.MaximalSumOfElements.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Arrays\Arrays_Homework\ArraysHomework\6.MaximalSumOfElements\obj\Debug\6.MaximalSumOfElements.pdb
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Arrays\Arrays_Homework\ArraysHomework\6.MaximalSumOfElements\obj\Debug\6.MaximalSumOfElements.csprojResolveAssemblyReference.cache

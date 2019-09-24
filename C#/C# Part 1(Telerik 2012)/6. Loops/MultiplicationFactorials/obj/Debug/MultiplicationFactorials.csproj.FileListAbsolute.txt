@@ -1,0 +1,5 @@
+c:\users\stanislav\documents\visual studio 2012\Projects\Loops_Homework\MultiplicationFactorials\bin\Debug\MultiplicationFactorials.exe.config
+c:\users\stanislav\documents\visual studio 2012\Projects\Loops_Homework\MultiplicationFactorials\bin\Debug\MultiplicationFactorials.exe
+c:\users\stanislav\documents\visual studio 2012\Projects\Loops_Homework\MultiplicationFactorials\bin\Debug\MultiplicationFactorials.pdb
+c:\users\stanislav\documents\visual studio 2012\Projects\Loops_Homework\MultiplicationFactorials\obj\Debug\MultiplicationFactorials.exe
+c:\users\stanislav\documents\visual studio 2012\Projects\Loops_Homework\MultiplicationFactorials\obj\Debug\MultiplicationFactorials.pdb

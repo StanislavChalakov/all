@@ -1,0 +1,6 @@
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\StringsAndTextProcessing\StringsAndTextProcessingHomework\21.CountLetters\bin\Debug\21.CountLetters.exe.config
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\StringsAndTextProcessing\StringsAndTextProcessingHomework\21.CountLetters\obj\Debug\21.CountLetters.csprojResolveAssemblyReference.cache
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\StringsAndTextProcessing\StringsAndTextProcessingHomework\21.CountLetters\bin\Debug\21.CountLetters.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\StringsAndTextProcessing\StringsAndTextProcessingHomework\21.CountLetters\bin\Debug\21.CountLetters.pdb
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\StringsAndTextProcessing\StringsAndTextProcessingHomework\21.CountLetters\obj\Debug\21.CountLetters.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\StringsAndTextProcessing\StringsAndTextProcessingHomework\21.CountLetters\obj\Debug\21.CountLetters.pdb

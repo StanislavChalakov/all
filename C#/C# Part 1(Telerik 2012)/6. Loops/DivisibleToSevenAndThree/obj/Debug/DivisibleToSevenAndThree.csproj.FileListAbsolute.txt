@@ -1,0 +1,5 @@
+c:\users\stanislav\documents\visual studio 2012\Projects\Loops_Homework\DivisibleToSevenAndThree\bin\Debug\DivisibleToSevenAndThree.exe.config
+c:\users\stanislav\documents\visual studio 2012\Projects\Loops_Homework\DivisibleToSevenAndThree\bin\Debug\DivisibleToSevenAndThree.exe
+c:\users\stanislav\documents\visual studio 2012\Projects\Loops_Homework\DivisibleToSevenAndThree\bin\Debug\DivisibleToSevenAndThree.pdb
+c:\users\stanislav\documents\visual studio 2012\Projects\Loops_Homework\DivisibleToSevenAndThree\obj\Debug\DivisibleToSevenAndThree.exe
+c:\users\stanislav\documents\visual studio 2012\Projects\Loops_Homework\DivisibleToSevenAndThree\obj\Debug\DivisibleToSevenAndThree.pdb

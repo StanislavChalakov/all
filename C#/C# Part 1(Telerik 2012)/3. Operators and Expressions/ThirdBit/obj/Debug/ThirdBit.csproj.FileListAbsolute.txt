@@ -1,0 +1,5 @@
+C:\Users\Yoshicore\Desktop\C#\Operators-ExpressionsAndStatements\Operators-ExpressionsAndStatements_Homework\Operators\ThirdBit\bin\Debug\ThirdBit.exe.config
+C:\Users\Yoshicore\Desktop\C#\Operators-ExpressionsAndStatements\Operators-ExpressionsAndStatements_Homework\Operators\ThirdBit\bin\Debug\ThirdBit.exe
+C:\Users\Yoshicore\Desktop\C#\Operators-ExpressionsAndStatements\Operators-ExpressionsAndStatements_Homework\Operators\ThirdBit\bin\Debug\ThirdBit.pdb
+C:\Users\Yoshicore\Desktop\C#\Operators-ExpressionsAndStatements\Operators-ExpressionsAndStatements_Homework\Operators\ThirdBit\obj\Debug\ThirdBit.exe
+C:\Users\Yoshicore\Desktop\C#\Operators-ExpressionsAndStatements\Operators-ExpressionsAndStatements_Homework\Operators\ThirdBit\obj\Debug\ThirdBit.pdb

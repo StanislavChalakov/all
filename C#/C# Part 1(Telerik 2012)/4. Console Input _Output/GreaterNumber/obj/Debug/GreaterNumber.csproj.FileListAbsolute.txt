@@ -1,0 +1,5 @@
+C:\Users\Yoshicore\Desktop\C#\ConsoleInOut\ConsoleInOut_Homework\GreaterNumber\bin\Debug\GreaterNumber.exe.config
+C:\Users\Yoshicore\Desktop\C#\ConsoleInOut\ConsoleInOut_Homework\GreaterNumber\bin\Debug\GreaterNumber.exe
+C:\Users\Yoshicore\Desktop\C#\ConsoleInOut\ConsoleInOut_Homework\GreaterNumber\bin\Debug\GreaterNumber.pdb
+C:\Users\Yoshicore\Desktop\C#\ConsoleInOut\ConsoleInOut_Homework\GreaterNumber\obj\Debug\GreaterNumber.exe
+C:\Users\Yoshicore\Desktop\C#\ConsoleInOut\ConsoleInOut_Homework\GreaterNumber\obj\Debug\GreaterNumber.pdb

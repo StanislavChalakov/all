@@ -1,0 +1,5 @@
+C:\Users\Yoshicore\Desktop\C#\PrimeDataTypesAndVariables\PrimeDataTypesAndVariables\QuotedStrings\bin\Debug\QuotedStrings.exe.config
+C:\Users\Yoshicore\Desktop\C#\PrimeDataTypesAndVariables\PrimeDataTypesAndVariables\QuotedStrings\bin\Debug\QuotedStrings.exe
+C:\Users\Yoshicore\Desktop\C#\PrimeDataTypesAndVariables\PrimeDataTypesAndVariables\QuotedStrings\bin\Debug\QuotedStrings.pdb
+C:\Users\Yoshicore\Desktop\C#\PrimeDataTypesAndVariables\PrimeDataTypesAndVariables\QuotedStrings\obj\Debug\QuotedStrings.exe
+C:\Users\Yoshicore\Desktop\C#\PrimeDataTypesAndVariables\PrimeDataTypesAndVariables\QuotedStrings\obj\Debug\QuotedStrings.pdb

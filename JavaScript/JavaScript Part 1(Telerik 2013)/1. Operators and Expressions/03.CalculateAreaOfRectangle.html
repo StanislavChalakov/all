@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>CalculateAreaOfRectangle</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+
+</head>
+<body>
+	<div id="inputdiv">
+		<div class="input">
+			<label for="tb-first">Enter Width: </label>
+			<input type="text" id="tb-first"/>
+		</div>							  
+		<div class="input">		
+			<label for="tb-second">Enter Height: </label>
+			<input type="text" id="tb-second"/>
+		</div>
+		<div id="inputbutton">
+			<a href="#" onclick="onFindBiggerButtonClick()">Calc Area</a>
+		</div>
+	</div>
+	<div id="console">
+	</div>
+	<script src="scripts/js-console.js">	  
+	</script>		  
+	<script>														 
+
+		function onFindBiggerButtonClick() {
+			var width = jsConsole.readFloat("#tb-first");
+			var height = jsConsole.readFloat("#tb-second");
+
+
+			jsConsole.writeLine("rectangular area is: " + width * height);
+		}											
+	</script>			  
+</body>
+</html>

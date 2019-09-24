@@ -1,0 +1,8 @@
+C:\Users\Yoshicore\Desktop\C#\PrimeDataTypesAndVariables\PrimeDataTypesAndVariables\NullValuesIntDouble\bin\Debug\NullValuesIntDouble.exe.config
+C:\Users\Yoshicore\Desktop\C#\PrimeDataTypesAndVariables\PrimeDataTypesAndVariables\NullValuesIntDouble\bin\Debug\NullValuesIntDouble.exe
+C:\Users\Yoshicore\Desktop\C#\PrimeDataTypesAndVariables\PrimeDataTypesAndVariables\NullValuesIntDouble\bin\Debug\NullValuesIntDouble.pdb
+C:\Users\Yoshicore\Desktop\C#\PrimeDataTypesAndVariables\PrimeDataTypesAndVariables\NullValuesIntDouble\obj\Debug\NullValuesIntDouble.exe
+C:\Users\Yoshicore\Desktop\C#\PrimeDataTypesAndVariables\PrimeDataTypesAndVariables\NullValuesIntDouble\obj\Debug\NullValuesIntDouble.pdb
+C:\Users\Yoshicore\Desktop\C#\PrimeDataTypesAndVariables\PrimeDataTypesAndVariables_Homework\NullValuesIntDouble\bin\Debug\NullValuesIntDouble.exe.config
+C:\Users\Yoshicore\Desktop\C#\PrimeDataTypesAndVariables\PrimeDataTypesAndVariables_Homework\NullValuesIntDouble\obj\Debug\NullValuesIntDouble.exe
+C:\Users\Yoshicore\Desktop\C#\PrimeDataTypesAndVariables\PrimeDataTypesAndVariables_Homework\NullValuesIntDouble\obj\Debug\NullValuesIntDouble.pdb

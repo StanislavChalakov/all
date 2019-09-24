@@ -1,0 +1,5 @@
+c:\users\stanislav\documents\visual studio 2012\Projects\Loops_Homework\MinAndMaxNumbers\bin\Debug\MinAndMaxNumbers.exe.config
+c:\users\stanislav\documents\visual studio 2012\Projects\Loops_Homework\MinAndMaxNumbers\bin\Debug\MinAndMaxNumbers.exe
+c:\users\stanislav\documents\visual studio 2012\Projects\Loops_Homework\MinAndMaxNumbers\bin\Debug\MinAndMaxNumbers.pdb
+c:\users\stanislav\documents\visual studio 2012\Projects\Loops_Homework\MinAndMaxNumbers\obj\Debug\MinAndMaxNumbers.exe
+c:\users\stanislav\documents\visual studio 2012\Projects\Loops_Homework\MinAndMaxNumbers\obj\Debug\MinAndMaxNumbers.pdb

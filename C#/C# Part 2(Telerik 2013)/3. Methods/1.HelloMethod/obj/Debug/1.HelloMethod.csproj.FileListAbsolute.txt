@@ -1,0 +1,5 @@
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Arrays\Arrays_Homework\MethodsHomework\1.HelloMethod\bin\Debug\1.HelloMethod.exe.config
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Arrays\Arrays_Homework\MethodsHomework\1.HelloMethod\bin\Debug\1.HelloMethod.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Arrays\Arrays_Homework\MethodsHomework\1.HelloMethod\bin\Debug\1.HelloMethod.pdb
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Arrays\Arrays_Homework\MethodsHomework\1.HelloMethod\obj\Debug\1.HelloMethod.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Arrays\Arrays_Homework\MethodsHomework\1.HelloMethod\obj\Debug\1.HelloMethod.pdb

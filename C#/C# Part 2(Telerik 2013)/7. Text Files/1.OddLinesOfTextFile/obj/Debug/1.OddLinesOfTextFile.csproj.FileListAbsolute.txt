@@ -1,0 +1,5 @@
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\TextFiles\TextFilesHomework\Blank\1.OddLinesOfTextFile\bin\Debug\1.OddLinesOfTextFile.exe.config
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\TextFiles\TextFilesHomework\Blank\1.OddLinesOfTextFile\bin\Debug\1.OddLinesOfTextFile.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\TextFiles\TextFilesHomework\Blank\1.OddLinesOfTextFile\bin\Debug\1.OddLinesOfTextFile.pdb
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\TextFiles\TextFilesHomework\Blank\1.OddLinesOfTextFile\obj\Debug\1.OddLinesOfTextFile.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\TextFiles\TextFilesHomework\Blank\1.OddLinesOfTextFile\obj\Debug\1.OddLinesOfTextFile.pdb

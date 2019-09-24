@@ -1,0 +1,5 @@
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\StringsAndTextProcessing\StringsAndTextProcessingHomework\10.ConvertToUnicode\bin\Debug\10.ConvertToUnicode.exe.config
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\StringsAndTextProcessing\StringsAndTextProcessingHomework\10.ConvertToUnicode\bin\Debug\10.ConvertToUnicode.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\StringsAndTextProcessing\StringsAndTextProcessingHomework\10.ConvertToUnicode\bin\Debug\10.ConvertToUnicode.pdb
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\StringsAndTextProcessing\StringsAndTextProcessingHomework\10.ConvertToUnicode\obj\Debug\10.ConvertToUnicode.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\StringsAndTextProcessing\StringsAndTextProcessingHomework\10.ConvertToUnicode\obj\Debug\10.ConvertToUnicode.pdb

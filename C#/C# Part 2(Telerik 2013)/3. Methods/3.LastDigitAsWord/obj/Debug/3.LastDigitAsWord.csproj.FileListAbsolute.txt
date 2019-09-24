@@ -1,0 +1,5 @@
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Arrays\Arrays_Homework\MethodsHomework\3.LastDigitAsWord\bin\Debug\3.LastDigitAsWord.exe.config
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Arrays\Arrays_Homework\MethodsHomework\3.LastDigitAsWord\bin\Debug\3.LastDigitAsWord.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Arrays\Arrays_Homework\MethodsHomework\3.LastDigitAsWord\bin\Debug\3.LastDigitAsWord.pdb
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Arrays\Arrays_Homework\MethodsHomework\3.LastDigitAsWord\obj\Debug\3.LastDigitAsWord.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Arrays\Arrays_Homework\MethodsHomework\3.LastDigitAsWord\obj\Debug\3.LastDigitAsWord.pdb

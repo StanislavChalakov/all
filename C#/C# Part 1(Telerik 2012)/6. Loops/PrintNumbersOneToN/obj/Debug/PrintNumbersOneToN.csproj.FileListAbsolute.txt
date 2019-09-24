@@ -1,0 +1,6 @@
+c:\users\stanislav\documents\visual studio 2012\Projects\Loops_Homework\PrintNumbersOneToN\bin\Debug\PrintNumbersOneToN.exe.config
+c:\users\stanislav\documents\visual studio 2012\Projects\Loops_Homework\PrintNumbersOneToN\bin\Debug\PrintNumbersOneToN.exe
+c:\users\stanislav\documents\visual studio 2012\Projects\Loops_Homework\PrintNumbersOneToN\bin\Debug\PrintNumbersOneToN.pdb
+c:\users\stanislav\documents\visual studio 2012\Projects\Loops_Homework\PrintNumbersOneToN\obj\Debug\PrintNumbersOneToN.csprojResolveAssemblyReference.cache
+c:\users\stanislav\documents\visual studio 2012\Projects\Loops_Homework\PrintNumbersOneToN\obj\Debug\PrintNumbersOneToN.exe
+c:\users\stanislav\documents\visual studio 2012\Projects\Loops_Homework\PrintNumbersOneToN\obj\Debug\PrintNumbersOneToN.pdb

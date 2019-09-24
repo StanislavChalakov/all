@@ -1,0 +1,9 @@
+C:\Users\Yoshicore\Desktop\C#\IntroC#\IntroCSharpHomework\IntroCSharpHomework\HelloCSharp\bin\Debug\HelloCSharp.exe.config
+C:\Users\Yoshicore\Desktop\C#\IntroC#\IntroCSharpHomework\IntroCSharpHomework\HelloCSharp\obj\Debug\HelloCSharp.csprojResolveAssemblyReference.cache
+C:\Users\Yoshicore\Desktop\C#\IntroC#\IntroCSharpHomework\IntroCSharpHomework\HelloCSharp\bin\Debug\HelloCSharp.exe
+C:\Users\Yoshicore\Desktop\C#\IntroC#\IntroCSharpHomework\IntroCSharpHomework\HelloCSharp\bin\Debug\HelloCSharp.pdb
+C:\Users\Yoshicore\Desktop\C#\IntroC#\IntroCSharpHomework\IntroCSharpHomework\HelloCSharp\obj\Debug\HelloCSharp.exe
+C:\Users\Yoshicore\Desktop\C#\IntroC#\IntroCSharpHomework\IntroCSharpHomework\HelloCSharp\obj\Debug\HelloCSharp.pdb
+C:\Users\Yoshicore\Desktop\C#\IntroC#\IntroCSharpHomework\HelloCSharp\bin\Debug\HelloCSharp.exe.config
+C:\Users\Yoshicore\Desktop\C#\IntroC#\IntroCSharpHomework\HelloCSharp\obj\Debug\HelloCSharp.exe
+C:\Users\Yoshicore\Desktop\C#\IntroC#\IntroCSharpHomework\HelloCSharp\obj\Debug\HelloCSharp.pdb

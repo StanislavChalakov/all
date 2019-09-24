@@ -1,0 +1,5 @@
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Arrays\Arrays_Homework\MethodsHomework\7.ReverseTheDigits\bin\Debug\7.ReverseTheDigits.exe.config
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Arrays\Arrays_Homework\MethodsHomework\7.ReverseTheDigits\bin\Debug\7.ReverseTheDigits.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Arrays\Arrays_Homework\MethodsHomework\7.ReverseTheDigits\bin\Debug\7.ReverseTheDigits.pdb
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Arrays\Arrays_Homework\MethodsHomework\7.ReverseTheDigits\obj\Debug\7.ReverseTheDigits.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Arrays\Arrays_Homework\MethodsHomework\7.ReverseTheDigits\obj\Debug\7.ReverseTheDigits.pdb

@@ -1,0 +1,5 @@
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Arrays\Arrays_Homework\MethodsHomework\2.ReturnBiggestNumber\bin\Debug\2.ReturnBiggestNumber.exe.config
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Arrays\Arrays_Homework\MethodsHomework\2.ReturnBiggestNumber\bin\Debug\2.ReturnBiggestNumber.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Arrays\Arrays_Homework\MethodsHomework\2.ReturnBiggestNumber\bin\Debug\2.ReturnBiggestNumber.pdb
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Arrays\Arrays_Homework\MethodsHomework\2.ReturnBiggestNumber\obj\Debug\2.ReturnBiggestNumber.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Arrays\Arrays_Homework\MethodsHomework\2.ReturnBiggestNumber\obj\Debug\2.ReturnBiggestNumber.pdb

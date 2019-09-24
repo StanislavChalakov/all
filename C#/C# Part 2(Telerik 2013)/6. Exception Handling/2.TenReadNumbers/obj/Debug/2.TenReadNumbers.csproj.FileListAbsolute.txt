@@ -1,0 +1,5 @@
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\ExceptionHandling\ExceptionHandlingHomework\ExceptionHandlingHomework\2.TenReadNumbers\bin\Debug\2.TenReadNumbers.exe.config
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\ExceptionHandling\ExceptionHandlingHomework\ExceptionHandlingHomework\2.TenReadNumbers\bin\Debug\2.TenReadNumbers.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\ExceptionHandling\ExceptionHandlingHomework\ExceptionHandlingHomework\2.TenReadNumbers\bin\Debug\2.TenReadNumbers.pdb
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\ExceptionHandling\ExceptionHandlingHomework\ExceptionHandlingHomework\2.TenReadNumbers\obj\Debug\2.TenReadNumbers.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\ExceptionHandling\ExceptionHandlingHomework\ExceptionHandlingHomework\2.TenReadNumbers\obj\Debug\2.TenReadNumbers.pdb

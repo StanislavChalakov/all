@@ -1,0 +1,6 @@
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\StringsAndTextProcessing\StringsAndTextProcessingHomework\12.ExtractElementsOfUrl\bin\Debug\12.ExtractElementsOfUrl.exe.config
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\StringsAndTextProcessing\StringsAndTextProcessingHomework\12.ExtractElementsOfUrl\bin\Debug\12.ExtractElementsOfUrl.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\StringsAndTextProcessing\StringsAndTextProcessingHomework\12.ExtractElementsOfUrl\bin\Debug\12.ExtractElementsOfUrl.pdb
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\StringsAndTextProcessing\StringsAndTextProcessingHomework\12.ExtractElementsOfUrl\obj\Debug\12.ExtractElementsOfUrl.csprojResolveAssemblyReference.cache
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\StringsAndTextProcessing\StringsAndTextProcessingHomework\12.ExtractElementsOfUrl\obj\Debug\12.ExtractElementsOfUrl.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\StringsAndTextProcessing\StringsAndTextProcessingHomework\12.ExtractElementsOfUrl\obj\Debug\12.ExtractElementsOfUrl.pdb

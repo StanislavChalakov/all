@@ -1,0 +1,6 @@
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\StringsAndTextProcessing\StringsAndTextProcessingHomework\3.CheckBrackets\bin\Debug\3.CheckBrackets.exe.config
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\StringsAndTextProcessing\StringsAndTextProcessingHomework\3.CheckBrackets\obj\Debug\3.CheckBrackets.csprojResolveAssemblyReference.cache
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\StringsAndTextProcessing\StringsAndTextProcessingHomework\3.CheckBrackets\bin\Debug\3.CheckBrackets.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\StringsAndTextProcessing\StringsAndTextProcessingHomework\3.CheckBrackets\bin\Debug\3.CheckBrackets.pdb
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\StringsAndTextProcessing\StringsAndTextProcessingHomework\3.CheckBrackets\obj\Debug\3.CheckBrackets.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\StringsAndTextProcessing\StringsAndTextProcessingHomework\3.CheckBrackets\obj\Debug\3.CheckBrackets.pdb

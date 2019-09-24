@@ -1,0 +1,5 @@
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\TextFiles\TextFilesHomework\Blank\4.ComparingTwoTextFiles\bin\Debug\4.ComparingTwoTextFiles.exe.config
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\TextFiles\TextFilesHomework\Blank\4.ComparingTwoTextFiles\bin\Debug\4.ComparingTwoTextFiles.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\TextFiles\TextFilesHomework\Blank\4.ComparingTwoTextFiles\bin\Debug\4.ComparingTwoTextFiles.pdb
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\TextFiles\TextFilesHomework\Blank\4.ComparingTwoTextFiles\obj\Debug\4.ComparingTwoTextFiles.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\TextFiles\TextFilesHomework\Blank\4.ComparingTwoTextFiles\obj\Debug\4.ComparingTwoTextFiles.pdb

@@ -1,0 +1,6 @@
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Arrays\Arrays_Homework\ArraysHomework\9.MostFrequentNumber\bin\Debug\9.MostFrequentNumber.exe.config
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Arrays\Arrays_Homework\ArraysHomework\9.MostFrequentNumber\bin\Debug\9.MostFrequentNumber.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Arrays\Arrays_Homework\ArraysHomework\9.MostFrequentNumber\bin\Debug\9.MostFrequentNumber.pdb
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Arrays\Arrays_Homework\ArraysHomework\9.MostFrequentNumber\obj\Debug\9.MostFrequentNumber.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Arrays\Arrays_Homework\ArraysHomework\9.MostFrequentNumber\obj\Debug\9.MostFrequentNumber.pdb
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Arrays\Arrays_Homework\ArraysHomework\9.MostFrequentNumber\obj\Debug\9.MostFrequentNumber.csprojResolveAssemblyReference.cache

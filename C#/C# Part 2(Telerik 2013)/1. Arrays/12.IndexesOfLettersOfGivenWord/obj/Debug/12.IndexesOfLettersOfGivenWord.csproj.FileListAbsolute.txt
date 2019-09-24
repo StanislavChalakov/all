@@ -1,0 +1,6 @@
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Arrays\Arrays_Homework\ArraysHomework\12.IndexesOfLettersOfGivenWord\bin\Debug\12.IndexesOfLettersOfGivenWord.exe.config
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Arrays\Arrays_Homework\ArraysHomework\12.IndexesOfLettersOfGivenWord\obj\Debug\12.IndexesOfLettersOfGivenWord.csprojResolveAssemblyReference.cache
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Arrays\Arrays_Homework\ArraysHomework\12.IndexesOfLettersOfGivenWord\bin\Debug\12.IndexesOfLettersOfGivenWord.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Arrays\Arrays_Homework\ArraysHomework\12.IndexesOfLettersOfGivenWord\bin\Debug\12.IndexesOfLettersOfGivenWord.pdb
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Arrays\Arrays_Homework\ArraysHomework\12.IndexesOfLettersOfGivenWord\obj\Debug\12.IndexesOfLettersOfGivenWord.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Arrays\Arrays_Homework\ArraysHomework\12.IndexesOfLettersOfGivenWord\obj\Debug\12.IndexesOfLettersOfGivenWord.pdb

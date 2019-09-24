@@ -1,0 +1,5 @@
+c:\users\stanislav\documents\visual studio 2012\Projects\Loops_Homework\TheSumOfFibonacciNumbers\bin\Debug\TheSumOfFibonacciNumbers.exe.config
+c:\users\stanislav\documents\visual studio 2012\Projects\Loops_Homework\TheSumOfFibonacciNumbers\bin\Debug\TheSumOfFibonacciNumbers.exe
+c:\users\stanislav\documents\visual studio 2012\Projects\Loops_Homework\TheSumOfFibonacciNumbers\bin\Debug\TheSumOfFibonacciNumbers.pdb
+c:\users\stanislav\documents\visual studio 2012\Projects\Loops_Homework\TheSumOfFibonacciNumbers\obj\Debug\TheSumOfFibonacciNumbers.exe
+c:\users\stanislav\documents\visual studio 2012\Projects\Loops_Homework\TheSumOfFibonacciNumbers\obj\Debug\TheSumOfFibonacciNumbers.pdb

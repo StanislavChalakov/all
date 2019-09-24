@@ -1,0 +1,5 @@
+C:\Users\Yoshicore\Desktop\C#\Operators-ExpressionsAndStatements\Operators-ExpressionsAndStatements_Homework\Operators\ExtractBitByPosition\bin\Debug\ExtractBitByPosition.exe.config
+C:\Users\Yoshicore\Desktop\C#\Operators-ExpressionsAndStatements\Operators-ExpressionsAndStatements_Homework\Operators\ExtractBitByPosition\bin\Debug\ExtractBitByPosition.exe
+C:\Users\Yoshicore\Desktop\C#\Operators-ExpressionsAndStatements\Operators-ExpressionsAndStatements_Homework\Operators\ExtractBitByPosition\bin\Debug\ExtractBitByPosition.pdb
+C:\Users\Yoshicore\Desktop\C#\Operators-ExpressionsAndStatements\Operators-ExpressionsAndStatements_Homework\Operators\ExtractBitByPosition\obj\Debug\ExtractBitByPosition.exe
+C:\Users\Yoshicore\Desktop\C#\Operators-ExpressionsAndStatements\Operators-ExpressionsAndStatements_Homework\Operators\ExtractBitByPosition\obj\Debug\ExtractBitByPosition.pdb

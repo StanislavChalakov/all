@@ -1,0 +1,5 @@
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\TextFiles\TextFilesHomework\Blank\2.TwoTextFilesIntoAnother\bin\Debug\2.TwoTextFilesIntoAnother.exe.config
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\TextFiles\TextFilesHomework\Blank\2.TwoTextFilesIntoAnother\bin\Debug\2.TwoTextFilesIntoAnother.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\TextFiles\TextFilesHomework\Blank\2.TwoTextFilesIntoAnother\bin\Debug\2.TwoTextFilesIntoAnother.pdb
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\TextFiles\TextFilesHomework\Blank\2.TwoTextFilesIntoAnother\obj\Debug\2.TwoTextFilesIntoAnother.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\TextFiles\TextFilesHomework\Blank\2.TwoTextFilesIntoAnother\obj\Debug\2.TwoTextFilesIntoAnother.pdb

@@ -1,0 +1,6 @@
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Arrays\Arrays_Homework\ArraysHomework\7.SelectionSortArray\bin\Debug\7.SelectionSortArray.exe.config
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Arrays\Arrays_Homework\ArraysHomework\7.SelectionSortArray\bin\Debug\7.SelectionSortArray.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Arrays\Arrays_Homework\ArraysHomework\7.SelectionSortArray\bin\Debug\7.SelectionSortArray.pdb
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Arrays\Arrays_Homework\ArraysHomework\7.SelectionSortArray\obj\Debug\7.SelectionSortArray.csprojResolveAssemblyReference.cache
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Arrays\Arrays_Homework\ArraysHomework\7.SelectionSortArray\obj\Debug\7.SelectionSortArray.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Arrays\Arrays_Homework\ArraysHomework\7.SelectionSortArray\obj\Debug\7.SelectionSortArray.pdb

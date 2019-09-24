@@ -1,0 +1,9 @@
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Arrays\Arrays_Homework\ArraysHomework\2.ComparingArrays\bin\Debug\2.ComparingArrays.exe.config
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Arrays\Arrays_Homework\ArraysHomework\2.ComparingArrays\obj\Debug\2.ComparingArrays.csprojResolveAssemblyReference.cache
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Arrays\Arrays_Homework\ArraysHomework\2.ComparingArrays\bin\Debug\2.ComparingArrays.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Arrays\Arrays_Homework\ArraysHomework\2.ComparingArrays\bin\Debug\2.ComparingArrays.pdb
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Arrays\Arrays_Homework\ArraysHomework\2.ComparingArrays\obj\Debug\2.ComparingArrays.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Arrays\Arrays_Homework\ArraysHomework\2.ComparingArrays\obj\Debug\2.ComparingArrays.pdb
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Arrays\Arrays_Homework\2.ComparingArrays\bin\Debug\2.ComparingArrays.exe.config
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Arrays\Arrays_Homework\2.ComparingArrays\obj\Debug\2.ComparingArrays.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Arrays\Arrays_Homework\2.ComparingArrays\obj\Debug\2.ComparingArrays.pdb

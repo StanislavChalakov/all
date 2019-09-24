@@ -1,0 +1,5 @@
+C:\Users\Yoshicore\Desktop\C#\Conditional Statements\Conditional Statements_Homework\Conditional Statements\TheBiggestOfThreeIntegers\bin\Debug\TheBiggestOfThreeIntegers.exe.config
+C:\Users\Yoshicore\Desktop\C#\Conditional Statements\Conditional Statements_Homework\Conditional Statements\TheBiggestOfThreeIntegers\bin\Debug\TheBiggestOfThreeIntegers.exe
+C:\Users\Yoshicore\Desktop\C#\Conditional Statements\Conditional Statements_Homework\Conditional Statements\TheBiggestOfThreeIntegers\bin\Debug\TheBiggestOfThreeIntegers.pdb
+C:\Users\Yoshicore\Desktop\C#\Conditional Statements\Conditional Statements_Homework\Conditional Statements\TheBiggestOfThreeIntegers\obj\Debug\TheBiggestOfThreeIntegers.exe
+C:\Users\Yoshicore\Desktop\C#\Conditional Statements\Conditional Statements_Homework\Conditional Statements\TheBiggestOfThreeIntegers\obj\Debug\TheBiggestOfThreeIntegers.pdb

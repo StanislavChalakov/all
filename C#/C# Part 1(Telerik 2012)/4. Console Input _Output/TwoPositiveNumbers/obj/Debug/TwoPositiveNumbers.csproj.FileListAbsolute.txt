@@ -1,0 +1,6 @@
+C:\Users\Yoshicore\Desktop\C#\ConsoleInOut\ConsoleInOut_Homework\TwoPositiveNumbers\bin\Debug\TwoPositiveNumbers.exe.config
+C:\Users\Yoshicore\Desktop\C#\ConsoleInOut\ConsoleInOut_Homework\TwoPositiveNumbers\bin\Debug\TwoPositiveNumbers.exe
+C:\Users\Yoshicore\Desktop\C#\ConsoleInOut\ConsoleInOut_Homework\TwoPositiveNumbers\bin\Debug\TwoPositiveNumbers.pdb
+C:\Users\Yoshicore\Desktop\C#\ConsoleInOut\ConsoleInOut_Homework\TwoPositiveNumbers\obj\Debug\TwoPositiveNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Yoshicore\Desktop\C#\ConsoleInOut\ConsoleInOut_Homework\TwoPositiveNumbers\obj\Debug\TwoPositiveNumbers.exe
+C:\Users\Yoshicore\Desktop\C#\ConsoleInOut\ConsoleInOut_Homework\TwoPositiveNumbers\obj\Debug\TwoPositiveNumbers.pdb

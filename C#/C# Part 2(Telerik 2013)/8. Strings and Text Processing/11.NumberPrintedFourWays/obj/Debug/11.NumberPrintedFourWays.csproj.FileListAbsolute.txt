@@ -1,0 +1,5 @@
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\StringsAndTextProcessing\StringsAndTextProcessingHomework\11.NumberPrintedFourWays\bin\Debug\11.NumberPrintedFourWays.exe.config
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\StringsAndTextProcessing\StringsAndTextProcessingHomework\11.NumberPrintedFourWays\bin\Debug\11.NumberPrintedFourWays.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\StringsAndTextProcessing\StringsAndTextProcessingHomework\11.NumberPrintedFourWays\bin\Debug\11.NumberPrintedFourWays.pdb
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\StringsAndTextProcessing\StringsAndTextProcessingHomework\11.NumberPrintedFourWays\obj\Debug\11.NumberPrintedFourWays.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\StringsAndTextProcessing\StringsAndTextProcessingHomework\11.NumberPrintedFourWays\obj\Debug\11.NumberPrintedFourWays.pdb

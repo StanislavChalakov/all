@@ -1,0 +1,6 @@
+C:\Users\Yoshicore\Desktop\C#\Operators-ExpressionsAndStatements\Operators-ExpressionsAndStatements_Homework\Operators\OddOrEven\bin\Debug\OddOrEven.exe.config
+C:\Users\Yoshicore\Desktop\C#\Operators-ExpressionsAndStatements\Operators-ExpressionsAndStatements_Homework\Operators\OddOrEven\obj\Debug\OddOrEven.csprojResolveAssemblyReference.cache
+C:\Users\Yoshicore\Desktop\C#\Operators-ExpressionsAndStatements\Operators-ExpressionsAndStatements_Homework\Operators\OddOrEven\bin\Debug\OddOrEven.exe
+C:\Users\Yoshicore\Desktop\C#\Operators-ExpressionsAndStatements\Operators-ExpressionsAndStatements_Homework\Operators\OddOrEven\bin\Debug\OddOrEven.pdb
+C:\Users\Yoshicore\Desktop\C#\Operators-ExpressionsAndStatements\Operators-ExpressionsAndStatements_Homework\Operators\OddOrEven\obj\Debug\OddOrEven.exe
+C:\Users\Yoshicore\Desktop\C#\Operators-ExpressionsAndStatements\Operators-ExpressionsAndStatements_Homework\Operators\OddOrEven\obj\Debug\OddOrEven.pdb

@@ -1,0 +1,6 @@
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\StringsAndTextProcessing\StringsAndTextProcessingHomework\16.TheDaysBtwTwoDates\bin\Debug\16.TheDaysBtwTwoDates.exe.config
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\StringsAndTextProcessing\StringsAndTextProcessingHomework\16.TheDaysBtwTwoDates\bin\Debug\16.TheDaysBtwTwoDates.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\StringsAndTextProcessing\StringsAndTextProcessingHomework\16.TheDaysBtwTwoDates\bin\Debug\16.TheDaysBtwTwoDates.pdb
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\StringsAndTextProcessing\StringsAndTextProcessingHomework\16.TheDaysBtwTwoDates\obj\Debug\16.TheDaysBtwTwoDates.csprojResolveAssemblyReference.cache
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\StringsAndTextProcessing\StringsAndTextProcessingHomework\16.TheDaysBtwTwoDates\obj\Debug\16.TheDaysBtwTwoDates.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\StringsAndTextProcessing\StringsAndTextProcessingHomework\16.TheDaysBtwTwoDates\obj\Debug\16.TheDaysBtwTwoDates.pdb

@@ -1,0 +1,5 @@
+C:\Users\Yoshicore\Desktop\C#\PrimeDataTypesAndVariables\PrimeDataTypesAndVariables\BooleanVariable\bin\Debug\BooleanVariable.exe.config
+C:\Users\Yoshicore\Desktop\C#\PrimeDataTypesAndVariables\PrimeDataTypesAndVariables\BooleanVariable\bin\Debug\BooleanVariable.exe
+C:\Users\Yoshicore\Desktop\C#\PrimeDataTypesAndVariables\PrimeDataTypesAndVariables\BooleanVariable\bin\Debug\BooleanVariable.pdb
+C:\Users\Yoshicore\Desktop\C#\PrimeDataTypesAndVariables\PrimeDataTypesAndVariables\BooleanVariable\obj\Debug\BooleanVariable.exe
+C:\Users\Yoshicore\Desktop\C#\PrimeDataTypesAndVariables\PrimeDataTypesAndVariables\BooleanVariable\obj\Debug\BooleanVariable.pdb

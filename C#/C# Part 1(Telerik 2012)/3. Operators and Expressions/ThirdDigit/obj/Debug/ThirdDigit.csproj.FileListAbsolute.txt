@@ -1,0 +1,5 @@
+C:\Users\Yoshicore\Desktop\C#\Operators-ExpressionsAndStatements\Operators-ExpressionsAndStatements_Homework\Operators\ThirdDigit\bin\Debug\ThirdDigit.exe.config
+C:\Users\Yoshicore\Desktop\C#\Operators-ExpressionsAndStatements\Operators-ExpressionsAndStatements_Homework\Operators\ThirdDigit\bin\Debug\ThirdDigit.exe
+C:\Users\Yoshicore\Desktop\C#\Operators-ExpressionsAndStatements\Operators-ExpressionsAndStatements_Homework\Operators\ThirdDigit\bin\Debug\ThirdDigit.pdb
+C:\Users\Yoshicore\Desktop\C#\Operators-ExpressionsAndStatements\Operators-ExpressionsAndStatements_Homework\Operators\ThirdDigit\obj\Debug\ThirdDigit.exe
+C:\Users\Yoshicore\Desktop\C#\Operators-ExpressionsAndStatements\Operators-ExpressionsAndStatements_Homework\Operators\ThirdDigit\obj\Debug\ThirdDigit.pdb

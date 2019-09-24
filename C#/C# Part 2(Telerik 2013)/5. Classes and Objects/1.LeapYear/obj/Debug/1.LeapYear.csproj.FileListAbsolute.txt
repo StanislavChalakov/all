@@ -1,0 +1,5 @@
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\NumeralSystems\NumeralSystems_Homework\ClassesAndObjectsHomework\1.LeapYear\bin\Debug\1.LeapYear.exe.config
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\NumeralSystems\NumeralSystems_Homework\ClassesAndObjectsHomework\1.LeapYear\bin\Debug\1.LeapYear.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\NumeralSystems\NumeralSystems_Homework\ClassesAndObjectsHomework\1.LeapYear\bin\Debug\1.LeapYear.pdb
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\NumeralSystems\NumeralSystems_Homework\ClassesAndObjectsHomework\1.LeapYear\obj\Debug\1.LeapYear.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\NumeralSystems\NumeralSystems_Homework\ClassesAndObjectsHomework\1.LeapYear\obj\Debug\1.LeapYear.pdb

@@ -1,0 +1,6 @@
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\StringsAndTextProcessing\StringsAndTextProcessingHomework\6.StringOfTwentyCharacters\bin\Debug\6.StringOfTwentyCharacters.exe.config
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\StringsAndTextProcessing\StringsAndTextProcessingHomework\6.StringOfTwentyCharacters\obj\Debug\6.StringOfTwentyCharacters.csprojResolveAssemblyReference.cache
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\StringsAndTextProcessing\StringsAndTextProcessingHomework\6.StringOfTwentyCharacters\bin\Debug\6.StringOfTwentyCharacters.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\StringsAndTextProcessing\StringsAndTextProcessingHomework\6.StringOfTwentyCharacters\bin\Debug\6.StringOfTwentyCharacters.pdb
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\StringsAndTextProcessing\StringsAndTextProcessingHomework\6.StringOfTwentyCharacters\obj\Debug\6.StringOfTwentyCharacters.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\StringsAndTextProcessing\StringsAndTextProcessingHomework\6.StringOfTwentyCharacters\obj\Debug\6.StringOfTwentyCharacters.pdb

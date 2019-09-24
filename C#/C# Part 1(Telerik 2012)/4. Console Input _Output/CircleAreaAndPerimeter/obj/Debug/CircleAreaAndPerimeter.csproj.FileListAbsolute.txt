@@ -1,0 +1,6 @@
+C:\Users\Yoshicore\Desktop\C#\ConsoleInOut\ConsoleInOut_Homework\CircleAreaAndPerimeter\bin\Debug\CircleAreaAndPerimeter.exe.config
+C:\Users\Yoshicore\Desktop\C#\ConsoleInOut\ConsoleInOut_Homework\CircleAreaAndPerimeter\bin\Debug\CircleAreaAndPerimeter.exe
+C:\Users\Yoshicore\Desktop\C#\ConsoleInOut\ConsoleInOut_Homework\CircleAreaAndPerimeter\bin\Debug\CircleAreaAndPerimeter.pdb
+C:\Users\Yoshicore\Desktop\C#\ConsoleInOut\ConsoleInOut_Homework\CircleAreaAndPerimeter\obj\Debug\CircleAreaAndPerimeter.csprojResolveAssemblyReference.cache
+C:\Users\Yoshicore\Desktop\C#\ConsoleInOut\ConsoleInOut_Homework\CircleAreaAndPerimeter\obj\Debug\CircleAreaAndPerimeter.exe
+C:\Users\Yoshicore\Desktop\C#\ConsoleInOut\ConsoleInOut_Homework\CircleAreaAndPerimeter\obj\Debug\CircleAreaAndPerimeter.pdb

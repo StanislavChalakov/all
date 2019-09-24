@@ -1,0 +1,5 @@
+C:\Users\Yoshicore\Desktop\C#\IntroC#\IntroCSharpHomework\SquareNumber\bin\Debug\SquareNumber.exe.config
+C:\Users\Yoshicore\Desktop\C#\IntroC#\IntroCSharpHomework\SquareNumber\bin\Debug\SquareNumber.exe
+C:\Users\Yoshicore\Desktop\C#\IntroC#\IntroCSharpHomework\SquareNumber\bin\Debug\SquareNumber.pdb
+C:\Users\Yoshicore\Desktop\C#\IntroC#\IntroCSharpHomework\SquareNumber\obj\Debug\SquareNumber.exe
+C:\Users\Yoshicore\Desktop\C#\IntroC#\IntroCSharpHomework\SquareNumber\obj\Debug\SquareNumber.pdb

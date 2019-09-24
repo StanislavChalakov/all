@@ -1,0 +1,5 @@
+C:\Users\Yoshicore\Desktop\C#\PrimeDataTypesAndVariables\PrimeDataTypesAndVariables\FloatingPointComparing\bin\Debug\FloatingPointComparing.exe.config
+C:\Users\Yoshicore\Desktop\C#\PrimeDataTypesAndVariables\PrimeDataTypesAndVariables\FloatingPointComparing\bin\Debug\FloatingPointComparing.exe
+C:\Users\Yoshicore\Desktop\C#\PrimeDataTypesAndVariables\PrimeDataTypesAndVariables\FloatingPointComparing\bin\Debug\FloatingPointComparing.pdb
+C:\Users\Yoshicore\Desktop\C#\PrimeDataTypesAndVariables\PrimeDataTypesAndVariables\FloatingPointComparing\obj\Debug\FloatingPointComparing.exe
+C:\Users\Yoshicore\Desktop\C#\PrimeDataTypesAndVariables\PrimeDataTypesAndVariables\FloatingPointComparing\obj\Debug\FloatingPointComparing.pdb

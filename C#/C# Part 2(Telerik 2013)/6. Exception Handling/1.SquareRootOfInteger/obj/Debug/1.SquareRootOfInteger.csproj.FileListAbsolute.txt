@@ -1,0 +1,6 @@
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\ExceptionHandling\ExceptionHandlingHomework\ExceptionHandlingHomework\1.SquareRootOfInteger\bin\Debug\1.SquareRootOfInteger.exe.config
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\ExceptionHandling\ExceptionHandlingHomework\ExceptionHandlingHomework\1.SquareRootOfInteger\bin\Debug\1.SquareRootOfInteger.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\ExceptionHandling\ExceptionHandlingHomework\ExceptionHandlingHomework\1.SquareRootOfInteger\bin\Debug\1.SquareRootOfInteger.pdb
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\ExceptionHandling\ExceptionHandlingHomework\ExceptionHandlingHomework\1.SquareRootOfInteger\obj\Debug\1.SquareRootOfInteger.csprojResolveAssemblyReference.cache
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\ExceptionHandling\ExceptionHandlingHomework\ExceptionHandlingHomework\1.SquareRootOfInteger\obj\Debug\1.SquareRootOfInteger.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\ExceptionHandling\ExceptionHandlingHomework\ExceptionHandlingHomework\1.SquareRootOfInteger\obj\Debug\1.SquareRootOfInteger.pdb

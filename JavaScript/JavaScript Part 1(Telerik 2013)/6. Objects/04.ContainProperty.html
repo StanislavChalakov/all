@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ContainProperty</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="js-console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+        function hasProperty(obj, prpt) {
+        for (var i in obj) {
+            if (i == prpt) {
+                return true;
+            }
+        }
+        return false;
+        }
+
+        var test = {
+            aveEi: 5,
+            babaYaga: 7,
+            c: 9
+        }
+
+        var hasPropertyOf = hasProperty(test, "babaYaga");
+        document.write(hasPropertyOf);
+    </script>
+</body>
+</html>

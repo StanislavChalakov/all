@@ -1,0 +1,5 @@
+C:\Users\Yoshicore\Desktop\C#\Conditional Statements\Conditional Statements_Homework\Conditional Statements\PositiveOrNegative\bin\Debug\PositiveOrNegative.exe.config
+C:\Users\Yoshicore\Desktop\C#\Conditional Statements\Conditional Statements_Homework\Conditional Statements\PositiveOrNegative\bin\Debug\PositiveOrNegative.exe
+C:\Users\Yoshicore\Desktop\C#\Conditional Statements\Conditional Statements_Homework\Conditional Statements\PositiveOrNegative\bin\Debug\PositiveOrNegative.pdb
+C:\Users\Yoshicore\Desktop\C#\Conditional Statements\Conditional Statements_Homework\Conditional Statements\PositiveOrNegative\obj\Debug\PositiveOrNegative.exe
+C:\Users\Yoshicore\Desktop\C#\Conditional Statements\Conditional Statements_Homework\Conditional Statements\PositiveOrNegative\obj\Debug\PositiveOrNegative.pdb

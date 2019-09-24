@@ -1,0 +1,5 @@
+C:\Users\Yoshicore\Desktop\C#\PrimeDataTypesAndVariables\PrimeDataTypesAndVariables\TriangleOfSymbols\bin\Debug\TriangleOfSymbols.exe.config
+C:\Users\Yoshicore\Desktop\C#\PrimeDataTypesAndVariables\PrimeDataTypesAndVariables\TriangleOfSymbols\bin\Debug\TriangleOfSymbols.exe
+C:\Users\Yoshicore\Desktop\C#\PrimeDataTypesAndVariables\PrimeDataTypesAndVariables\TriangleOfSymbols\bin\Debug\TriangleOfSymbols.pdb
+C:\Users\Yoshicore\Desktop\C#\PrimeDataTypesAndVariables\PrimeDataTypesAndVariables\TriangleOfSymbols\obj\Debug\TriangleOfSymbols.exe
+C:\Users\Yoshicore\Desktop\C#\PrimeDataTypesAndVariables\PrimeDataTypesAndVariables\TriangleOfSymbols\obj\Debug\TriangleOfSymbols.pdb

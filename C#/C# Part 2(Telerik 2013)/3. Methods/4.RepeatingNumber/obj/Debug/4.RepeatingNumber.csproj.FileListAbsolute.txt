@@ -1,0 +1,6 @@
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Arrays\Arrays_Homework\MethodsHomework\4.RepeatingNumber\bin\Debug\4.RepeatingNumber.exe.config
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Arrays\Arrays_Homework\MethodsHomework\4.RepeatingNumber\bin\Debug\4.RepeatingNumber.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Arrays\Arrays_Homework\MethodsHomework\4.RepeatingNumber\bin\Debug\4.RepeatingNumber.pdb
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Arrays\Arrays_Homework\MethodsHomework\4.RepeatingNumber\obj\Debug\4.RepeatingNumber.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Arrays\Arrays_Homework\MethodsHomework\4.RepeatingNumber\obj\Debug\4.RepeatingNumber.pdb
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Arrays\Arrays_Homework\MethodsHomework\4.RepeatingNumber\obj\Debug\4.RepeatingNumber.csprojResolveAssemblyReference.cache

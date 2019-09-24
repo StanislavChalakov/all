@@ -1,0 +1,48 @@
+*
+{
+	margin: 0;
+	padding: 0;
+	background-color: #A9A9A9;
+}
+header
+{
+	text-align: center;
+	color: #FAFAD2;
+	margin-top: 20px;
+}
+footer
+{
+	text-align: center;
+	font-size: 120%;
+}
+ul li
+{
+	list-style-type: none;
+}
+a
+{
+	text-decoration: none;
+	color: #FAFAD2;
+}
+li:last-child
+{
+	text-decoration: underline;
+}
+.leftalign
+{
+	text-align: left;
+	margin: 20px;
+}
+.leftalign a
+{
+	color: black;
+	font-size: 80%;
+}
+.current
+{
+	background-color: #D3D3D3;
+}
+#hidden 
+{
+	display: none;
+}

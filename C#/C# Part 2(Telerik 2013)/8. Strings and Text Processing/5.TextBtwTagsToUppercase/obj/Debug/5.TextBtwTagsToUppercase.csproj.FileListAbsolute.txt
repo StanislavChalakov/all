@@ -1,0 +1,6 @@
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\StringsAndTextProcessing\StringsAndTextProcessingHomework\5.TextBtwTagsToUppercase\bin\Debug\5.TextBtwTagsToUppercase.exe.config
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\StringsAndTextProcessing\StringsAndTextProcessingHomework\5.TextBtwTagsToUppercase\obj\Debug\5.TextBtwTagsToUppercase.csprojResolveAssemblyReference.cache
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\StringsAndTextProcessing\StringsAndTextProcessingHomework\5.TextBtwTagsToUppercase\bin\Debug\5.TextBtwTagsToUppercase.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\StringsAndTextProcessing\StringsAndTextProcessingHomework\5.TextBtwTagsToUppercase\bin\Debug\5.TextBtwTagsToUppercase.pdb
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\StringsAndTextProcessing\StringsAndTextProcessingHomework\5.TextBtwTagsToUppercase\obj\Debug\5.TextBtwTagsToUppercase.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\StringsAndTextProcessing\StringsAndTextProcessingHomework\5.TextBtwTagsToUppercase\obj\Debug\5.TextBtwTagsToUppercase.pdb

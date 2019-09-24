@@ -1,0 +1,5 @@
+C:\Users\Yoshicore\Desktop\C#\IntroC#\IntroCSharpHomework\FirstTenNumbers\bin\Debug\FirstTenNumbers.exe.config
+C:\Users\Yoshicore\Desktop\C#\IntroC#\IntroCSharpHomework\FirstTenNumbers\bin\Debug\FirstTenNumbers.exe
+C:\Users\Yoshicore\Desktop\C#\IntroC#\IntroCSharpHomework\FirstTenNumbers\bin\Debug\FirstTenNumbers.pdb
+C:\Users\Yoshicore\Desktop\C#\IntroC#\IntroCSharpHomework\FirstTenNumbers\obj\Debug\FirstTenNumbers.exe
+C:\Users\Yoshicore\Desktop\C#\IntroC#\IntroCSharpHomework\FirstTenNumbers\obj\Debug\FirstTenNumbers.pdb

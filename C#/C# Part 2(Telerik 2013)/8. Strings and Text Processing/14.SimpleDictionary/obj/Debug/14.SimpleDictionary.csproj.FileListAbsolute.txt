@@ -1,0 +1,5 @@
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\StringsAndTextProcessing\StringsAndTextProcessingHomework\14.SimpleDictionary\bin\Debug\14.SimpleDictionary.exe.config
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\StringsAndTextProcessing\StringsAndTextProcessingHomework\14.SimpleDictionary\bin\Debug\14.SimpleDictionary.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\StringsAndTextProcessing\StringsAndTextProcessingHomework\14.SimpleDictionary\bin\Debug\14.SimpleDictionary.pdb
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\StringsAndTextProcessing\StringsAndTextProcessingHomework\14.SimpleDictionary\obj\Debug\14.SimpleDictionary.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\StringsAndTextProcessing\StringsAndTextProcessingHomework\14.SimpleDictionary\obj\Debug\14.SimpleDictionary.pdb

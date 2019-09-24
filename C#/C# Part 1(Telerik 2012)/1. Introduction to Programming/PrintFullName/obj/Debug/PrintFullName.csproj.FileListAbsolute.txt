@@ -1,0 +1,5 @@
+C:\Users\Yoshicore\Desktop\C#\IntroC#\IntroCSharpHomework\PrintFullName\bin\Debug\PrintFullName.exe.config
+C:\Users\Yoshicore\Desktop\C#\IntroC#\IntroCSharpHomework\PrintFullName\bin\Debug\PrintFullName.exe
+C:\Users\Yoshicore\Desktop\C#\IntroC#\IntroCSharpHomework\PrintFullName\bin\Debug\PrintFullName.pdb
+C:\Users\Yoshicore\Desktop\C#\IntroC#\IntroCSharpHomework\PrintFullName\obj\Debug\PrintFullName.exe
+C:\Users\Yoshicore\Desktop\C#\IntroC#\IntroCSharpHomework\PrintFullName\obj\Debug\PrintFullName.pdb

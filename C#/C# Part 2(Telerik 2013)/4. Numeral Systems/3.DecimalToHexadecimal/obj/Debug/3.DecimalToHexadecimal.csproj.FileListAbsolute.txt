@@ -1,0 +1,5 @@
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\NumeralSystems\NumeralSystems_Homework\NumeralSystemsHomework\3.DecimalToHexadecimal\bin\Debug\3.DecimalToHexadecimal.exe.config
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\NumeralSystems\NumeralSystems_Homework\NumeralSystemsHomework\3.DecimalToHexadecimal\bin\Debug\3.DecimalToHexadecimal.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\NumeralSystems\NumeralSystems_Homework\NumeralSystemsHomework\3.DecimalToHexadecimal\bin\Debug\3.DecimalToHexadecimal.pdb
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\NumeralSystems\NumeralSystems_Homework\NumeralSystemsHomework\3.DecimalToHexadecimal\obj\Debug\3.DecimalToHexadecimal.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\NumeralSystems\NumeralSystems_Homework\NumeralSystemsHomework\3.DecimalToHexadecimal\obj\Debug\3.DecimalToHexadecimal.pdb

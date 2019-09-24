@@ -1,0 +1,5 @@
+C:\Users\Yoshicore\Desktop\C#\Conditional Statements\Conditional Statements_Homework\Conditional Statements\QuadraticEquation\bin\Debug\QuadraticEquation.exe.config
+C:\Users\Yoshicore\Desktop\C#\Conditional Statements\Conditional Statements_Homework\Conditional Statements\QuadraticEquation\bin\Debug\QuadraticEquation.exe
+C:\Users\Yoshicore\Desktop\C#\Conditional Statements\Conditional Statements_Homework\Conditional Statements\QuadraticEquation\bin\Debug\QuadraticEquation.pdb
+C:\Users\Yoshicore\Desktop\C#\Conditional Statements\Conditional Statements_Homework\Conditional Statements\QuadraticEquation\obj\Debug\QuadraticEquation.exe
+C:\Users\Yoshicore\Desktop\C#\Conditional Statements\Conditional Statements_Homework\Conditional Statements\QuadraticEquation\obj\Debug\QuadraticEquation.pdb

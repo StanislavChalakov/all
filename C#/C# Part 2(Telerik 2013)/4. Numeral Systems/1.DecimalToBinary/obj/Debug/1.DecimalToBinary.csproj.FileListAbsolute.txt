@@ -1,0 +1,5 @@
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\NumeralSystems\NumeralSystems_Homework\NumeralSystemsHomework\1.DecimalToBinary\bin\Debug\1.DecimalToBinary.exe.config
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\NumeralSystems\NumeralSystems_Homework\NumeralSystemsHomework\1.DecimalToBinary\bin\Debug\1.DecimalToBinary.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\NumeralSystems\NumeralSystems_Homework\NumeralSystemsHomework\1.DecimalToBinary\bin\Debug\1.DecimalToBinary.pdb
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\NumeralSystems\NumeralSystems_Homework\NumeralSystemsHomework\1.DecimalToBinary\obj\Debug\1.DecimalToBinary.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\NumeralSystems\NumeralSystems_Homework\NumeralSystemsHomework\1.DecimalToBinary\obj\Debug\1.DecimalToBinary.pdb

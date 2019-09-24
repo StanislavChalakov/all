@@ -1,0 +1,9 @@
+C:\Users\Yoshicore\Desktop\C#\Conditional Statements\Conditional Statements_Homework\Conditional Statements\TheGreaterNumber\bin\Debug\TheGreaterNumber.exe.config
+C:\Users\Yoshicore\Desktop\C#\Conditional Statements\Conditional Statements_Homework\Conditional Statements\TheGreaterNumber\obj\Debug\TheGreaterNumber.csprojResolveAssemblyReference.cache
+C:\Users\Yoshicore\Desktop\C#\Conditional Statements\Conditional Statements_Homework\Conditional Statements\TheGreaterNumber\bin\Debug\TheGreaterNumber.exe
+C:\Users\Yoshicore\Desktop\C#\Conditional Statements\Conditional Statements_Homework\Conditional Statements\TheGreaterNumber\bin\Debug\TheGreaterNumber.pdb
+C:\Users\Yoshicore\Desktop\C#\Conditional Statements\Conditional Statements_Homework\Conditional Statements\TheGreaterNumber\obj\Debug\TheGreaterNumber.exe
+C:\Users\Yoshicore\Desktop\C#\Conditional Statements\Conditional Statements_Homework\Conditional Statements\TheGreaterNumber\obj\Debug\TheGreaterNumber.pdb
+C:\Users\Yoshicore\Desktop\C#\Conditional Statements\Conditional Statements_Homework\TheGreaterNumber\bin\Debug\TheGreaterNumber.exe.config
+C:\Users\Yoshicore\Desktop\C#\Conditional Statements\Conditional Statements_Homework\TheGreaterNumber\obj\Debug\TheGreaterNumber.exe
+C:\Users\Yoshicore\Desktop\C#\Conditional Statements\Conditional Statements_Homework\TheGreaterNumber\obj\Debug\TheGreaterNumber.pdb

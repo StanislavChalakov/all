@@ -1,0 +1,5 @@
+C:\Users\Yoshicore\Desktop\C#\Operators-ExpressionsAndStatements\Operators-ExpressionsAndStatements_Homework\Operators\TrapezoidArea\bin\Debug\TrapezoidArea.exe.config
+C:\Users\Yoshicore\Desktop\C#\Operators-ExpressionsAndStatements\Operators-ExpressionsAndStatements_Homework\Operators\TrapezoidArea\bin\Debug\TrapezoidArea.exe
+C:\Users\Yoshicore\Desktop\C#\Operators-ExpressionsAndStatements\Operators-ExpressionsAndStatements_Homework\Operators\TrapezoidArea\bin\Debug\TrapezoidArea.pdb
+C:\Users\Yoshicore\Desktop\C#\Operators-ExpressionsAndStatements\Operators-ExpressionsAndStatements_Homework\Operators\TrapezoidArea\obj\Debug\TrapezoidArea.exe
+C:\Users\Yoshicore\Desktop\C#\Operators-ExpressionsAndStatements\Operators-ExpressionsAndStatements_Homework\Operators\TrapezoidArea\obj\Debug\TrapezoidArea.pdb

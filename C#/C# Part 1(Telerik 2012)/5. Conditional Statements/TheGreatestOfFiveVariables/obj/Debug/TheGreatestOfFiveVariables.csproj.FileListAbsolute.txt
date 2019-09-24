@@ -1,0 +1,5 @@
+C:\Users\Yoshicore\Desktop\C#\Conditional Statements\Conditional Statements_Homework\Conditional Statements\TheGreatestOfFiveVariables\bin\Debug\TheGreatestOfFiveVariables.exe.config
+C:\Users\Yoshicore\Desktop\C#\Conditional Statements\Conditional Statements_Homework\Conditional Statements\TheGreatestOfFiveVariables\bin\Debug\TheGreatestOfFiveVariables.exe
+C:\Users\Yoshicore\Desktop\C#\Conditional Statements\Conditional Statements_Homework\Conditional Statements\TheGreatestOfFiveVariables\bin\Debug\TheGreatestOfFiveVariables.pdb
+C:\Users\Yoshicore\Desktop\C#\Conditional Statements\Conditional Statements_Homework\Conditional Statements\TheGreatestOfFiveVariables\obj\Debug\TheGreatestOfFiveVariables.exe
+C:\Users\Yoshicore\Desktop\C#\Conditional Statements\Conditional Statements_Homework\Conditional Statements\TheGreatestOfFiveVariables\obj\Debug\TheGreatestOfFiveVariables.pdb

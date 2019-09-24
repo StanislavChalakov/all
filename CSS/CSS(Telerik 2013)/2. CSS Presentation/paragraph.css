@@ -1,0 +1,18 @@
+p
+{
+	color: #0094ff;
+}
+@font-face
+{
+	font-family: script;
+	src:url('fonts/EdwardianScriptITC.ttf');
+}
+article:first-letter
+{
+	font-family: script;
+	font-size: 150%;
+}
+article:first-line
+{
+	font-weight: bold;
+}

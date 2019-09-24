@@ -1,0 +1,5 @@
+C:\Users\Yoshicore\Desktop\C#\ConsoleInOut\ConsoleInOut_Homework\AllNumbersInOneLine\bin\Debug\AllNumbersInOneLine.exe.config
+C:\Users\Yoshicore\Desktop\C#\ConsoleInOut\ConsoleInOut_Homework\AllNumbersInOneLine\bin\Debug\AllNumbersInOneLine.exe
+C:\Users\Yoshicore\Desktop\C#\ConsoleInOut\ConsoleInOut_Homework\AllNumbersInOneLine\bin\Debug\AllNumbersInOneLine.pdb
+C:\Users\Yoshicore\Desktop\C#\ConsoleInOut\ConsoleInOut_Homework\AllNumbersInOneLine\obj\Debug\AllNumbersInOneLine.exe
+C:\Users\Yoshicore\Desktop\C#\ConsoleInOut\ConsoleInOut_Homework\AllNumbersInOneLine\obj\Debug\AllNumbersInOneLine.pdb

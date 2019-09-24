@@ -1,0 +1,6 @@
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Arrays\Arrays_Homework\ArraysHomework\4.MaximalSequenceOfElements\bin\Debug\4.MaximalSequenceOfElements.exe.config
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Arrays\Arrays_Homework\ArraysHomework\4.MaximalSequenceOfElements\bin\Debug\4.MaximalSequenceOfElements.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Arrays\Arrays_Homework\ArraysHomework\4.MaximalSequenceOfElements\bin\Debug\4.MaximalSequenceOfElements.pdb
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Arrays\Arrays_Homework\ArraysHomework\4.MaximalSequenceOfElements\obj\Debug\4.MaximalSequenceOfElements.csprojResolveAssemblyReference.cache
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Arrays\Arrays_Homework\ArraysHomework\4.MaximalSequenceOfElements\obj\Debug\4.MaximalSequenceOfElements.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Arrays\Arrays_Homework\ArraysHomework\4.MaximalSequenceOfElements\obj\Debug\4.MaximalSequenceOfElements.pdb

@@ -1,0 +1,6 @@
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\StringsAndTextProcessing\StringsAndTextProcessingHomework\8.ExtractSentencesWithGivenWord\bin\Debug\8.ExtractSentencesWithGivenWord.exe.config
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\StringsAndTextProcessing\StringsAndTextProcessingHomework\8.ExtractSentencesWithGivenWord\obj\Debug\8.ExtractSentencesWithGivenWord.csprojResolveAssemblyReference.cache
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\StringsAndTextProcessing\StringsAndTextProcessingHomework\8.ExtractSentencesWithGivenWord\bin\Debug\8.ExtractSentencesWithGivenWord.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\StringsAndTextProcessing\StringsAndTextProcessingHomework\8.ExtractSentencesWithGivenWord\bin\Debug\8.ExtractSentencesWithGivenWord.pdb
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\StringsAndTextProcessing\StringsAndTextProcessingHomework\8.ExtractSentencesWithGivenWord\obj\Debug\8.ExtractSentencesWithGivenWord.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\StringsAndTextProcessing\StringsAndTextProcessingHomework\8.ExtractSentencesWithGivenWord\obj\Debug\8.ExtractSentencesWithGivenWord.pdb

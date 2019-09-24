@@ -1,0 +1,9 @@
+C:\Users\Yoshicore\Desktop\C#\PrimeDataTypesAndVariables\PrimeDataTypesAndVariables\FiveNumbersDiffTypes\bin\Debug\FiveNumbersDiffTypes.exe.config
+C:\Users\Yoshicore\Desktop\C#\PrimeDataTypesAndVariables\PrimeDataTypesAndVariables\FiveNumbersDiffTypes\bin\Debug\FiveNumbersDiffTypes.exe
+C:\Users\Yoshicore\Desktop\C#\PrimeDataTypesAndVariables\PrimeDataTypesAndVariables\FiveNumbersDiffTypes\bin\Debug\FiveNumbersDiffTypes.pdb
+C:\Users\Yoshicore\Desktop\C#\PrimeDataTypesAndVariables\PrimeDataTypesAndVariables\FiveNumbersDiffTypes\obj\Debug\FiveNumbersDiffTypes.csprojResolveAssemblyReference.cache
+C:\Users\Yoshicore\Desktop\C#\PrimeDataTypesAndVariables\PrimeDataTypesAndVariables\FiveNumbersDiffTypes\obj\Debug\FiveNumbersDiffTypes.exe
+C:\Users\Yoshicore\Desktop\C#\PrimeDataTypesAndVariables\PrimeDataTypesAndVariables\FiveNumbersDiffTypes\obj\Debug\FiveNumbersDiffTypes.pdb
+C:\Users\Yoshicore\Desktop\C#\PrimeDataTypesAndVariables\PrimeDataTypesAndVariables_Homework\FiveNumbersDiffTypes\bin\Debug\FiveNumbersDiffTypes.exe.config
+C:\Users\Yoshicore\Desktop\C#\PrimeDataTypesAndVariables\PrimeDataTypesAndVariables_Homework\FiveNumbersDiffTypes\obj\Debug\FiveNumbersDiffTypes.exe
+C:\Users\Yoshicore\Desktop\C#\PrimeDataTypesAndVariables\PrimeDataTypesAndVariables_Homework\FiveNumbersDiffTypes\obj\Debug\FiveNumbersDiffTypes.pdb

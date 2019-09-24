@@ -1,0 +1,2 @@
+C:\Users\Yoshicore\Desktop\C#\PrimeDataTypesAndVariables\PrimeDataTypesAndVariables\FloatAndDoubleNumbers\bin\Debug\FloatAndDoubleNumbers.exe.config
+C:\Users\Yoshicore\Desktop\C#\PrimeDataTypesAndVariables\PrimeDataTypesAndVariables_Homework\FloatAndDoubleNumbers\bin\Debug\FloatAndDoubleNumbers.exe.config

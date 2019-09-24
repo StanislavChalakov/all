@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.SquareRootOfInteger", "1.SquareRootOfInteger\1.SquareRootOfInteger.csproj", "{C8544914-C758-4A86-A709-B59A03A16C3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.TenReadNumbers", "2.TenReadNumbers\2.TenReadNumbers.csproj", "{B95D548B-D341-4F94-81E6-056C9C8B7D87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8544914-C758-4A86-A709-B59A03A16C3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8544914-C758-4A86-A709-B59A03A16C3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8544914-C758-4A86-A709-B59A03A16C3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8544914-C758-4A86-A709-B59A03A16C3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B95D548B-D341-4F94-81E6-056C9C8B7D87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B95D548B-D341-4F94-81E6-056C9C8B7D87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B95D548B-D341-4F94-81E6-056C9C8B7D87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B95D548B-D341-4F94-81E6-056C9C8B7D87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

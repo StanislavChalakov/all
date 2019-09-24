@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>OddOrEvenInteger</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+
+</head>
+<body>
+	<div id="inputdiv">
+		<div class="input">
+			<label for="tb-first">Enter some integer: </label>
+			<input type="text" id="tb-first"/>
+		</div>
+		<div id="inputbutton">
+			<a href="#" onclick="onFindBiggerButtonClick()">Check</a>
+		</div>
+	</div>
+	<div id="console">
+	</div>
+	<script src="scripts/js-console.js">	  
+	</script>		  
+	<script>														 
+
+		function onFindBiggerButtonClick() {
+			var first = jsConsole.readFloat("#tb-first");
+
+			if (first % 2 == 0) {
+				jsConsole.writeLine("number: " + first + " is even");
+			}
+			else
+			{
+				jsConsole.writeLine("number: " + first + " is odd");
+			}
+
+
+		}											
+	</script>			  
+</body>
+</html>

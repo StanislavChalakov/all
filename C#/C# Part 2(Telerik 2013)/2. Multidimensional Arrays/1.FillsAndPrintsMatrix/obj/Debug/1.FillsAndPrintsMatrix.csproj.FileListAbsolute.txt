@@ -1,0 +1,12 @@
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Arrays\Arrays_Homework\MultidimensionalArraysHomework\1.FillsAndPrintsMatrix\bin\Debug\1.FillsAndPrintsMatrix.exe.config
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Arrays\Arrays_Homework\MultidimensionalArraysHomework\1.FillsAndPrintsMatrix\obj\Debug\1.FillsAndPrintsMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Arrays\Arrays_Homework\MultidimensionalArraysHomework\1.FillsAndPrintsMatrix\bin\Debug\1.FillsAndPrintsMatrix.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Arrays\Arrays_Homework\MultidimensionalArraysHomework\1.FillsAndPrintsMatrix\bin\Debug\1.FillsAndPrintsMatrix.pdb
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Arrays\Arrays_Homework\MultidimensionalArraysHomework\1.FillsAndPrintsMatrix\obj\Debug\1.FillsAndPrintsMatrix.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Arrays\Arrays_Homework\MultidimensionalArraysHomework\1.FillsAndPrintsMatrix\obj\Debug\1.FillsAndPrintsMatrix.pdb
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Multidimensional Arrays\MultidimensionalArrays_Homework\MultidimensionalArraysHomework\1.FillsAndPrintsMatrix\bin\Debug\1.FillsAndPrintsMatrix.exe.config
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Multidimensional Arrays\MultidimensionalArrays_Homework\MultidimensionalArraysHomework\1.FillsAndPrintsMatrix\obj\Debug\1.FillsAndPrintsMatrix.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Multidimensional Arrays\MultidimensionalArrays_Homework\MultidimensionalArraysHomework\1.FillsAndPrintsMatrix\obj\Debug\1.FillsAndPrintsMatrix.pdb
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Multidimensional Arrays\MultidimensionalArrays_Homework\1.FillsAndPrintsMatrix\bin\Debug\1.FillsAndPrintsMatrix.exe.config
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Multidimensional Arrays\MultidimensionalArrays_Homework\1.FillsAndPrintsMatrix\obj\Debug\1.FillsAndPrintsMatrix.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Multidimensional Arrays\MultidimensionalArrays_Homework\1.FillsAndPrintsMatrix\obj\Debug\1.FillsAndPrintsMatrix.pdb

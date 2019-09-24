@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ReverseTheDigitsOfDecimal</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="js-console"></div>
+    
+    <script src="scripts/js-console.js"></script>
+    <script>
+        var number = 1234;
+        reverseDigits(number);
+
+        number = -113;
+        reverseDigits(number);
+
+        function reverseDigits(number) {
+            
+            var text = "";
+            var numStr = number.toString();
+            var counter = 0;
+
+            jsConsole.writeLine("Your number is: " + number);
+
+            if (number < 0) {
+                //if number is negative, skip the minus
+                
+                for (counter = 1; counter < numStr.length; counter++) {
+                    text = numStr.substring(counter, counter + 1) + text;
+                }
+                text = '-'+text;
+            }
+            else {//if the number is zero or positive
+                for (counter = 0; counter < numStr.length; counter++) {
+                    text = numStr.substring(counter, counter + 1) + text;
+                }
+            }            
+            jsConsole.writeLine("The reversed number is "+text);
+        }
+            
+    </script>
+</body>
+</html>

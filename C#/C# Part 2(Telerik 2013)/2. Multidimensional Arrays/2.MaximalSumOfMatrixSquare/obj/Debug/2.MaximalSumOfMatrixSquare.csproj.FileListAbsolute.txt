@@ -1,0 +1,14 @@
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Arrays\Arrays_Homework\MultidimensionalArraysHomework\2.MaximalSumOfMatrixSquare\bin\Debug\2.MaximalSumOfMatrixSquare.exe.config
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Arrays\Arrays_Homework\MultidimensionalArraysHomework\2.MaximalSumOfMatrixSquare\bin\Debug\2.MaximalSumOfMatrixSquare.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Arrays\Arrays_Homework\MultidimensionalArraysHomework\2.MaximalSumOfMatrixSquare\bin\Debug\2.MaximalSumOfMatrixSquare.pdb
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Arrays\Arrays_Homework\MultidimensionalArraysHomework\2.MaximalSumOfMatrixSquare\obj\Debug\2.MaximalSumOfMatrixSquare.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Arrays\Arrays_Homework\MultidimensionalArraysHomework\2.MaximalSumOfMatrixSquare\obj\Debug\2.MaximalSumOfMatrixSquare.pdb
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Multidimensional Arrays\MultidimensionalArrays_Homework\MultidimensionalArraysHomework\2.MaximalSumOfMatrixSquare\bin\Debug\2.MaximalSumOfMatrixSquare.exe.config
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Multidimensional Arrays\MultidimensionalArrays_Homework\MultidimensionalArraysHomework\2.MaximalSumOfMatrixSquare\obj\Debug\2.MaximalSumOfMatrixSquare.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Multidimensional Arrays\MultidimensionalArrays_Homework\MultidimensionalArraysHomework\2.MaximalSumOfMatrixSquare\obj\Debug\2.MaximalSumOfMatrixSquare.pdb
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Multidimensional Arrays\MultidimensionalArrays_Homework\MultidimensionalArraysHomework\2.MaximalSumOfMatrixSquare\obj\Debug\2.MaximalSumOfMatrixSquare.csprojResolveAssemblyReference.cache
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Multidimensional Arrays\MultidimensionalArrays_Homework\MultidimensionalArraysHomework\2.MaximalSumOfMatrixSquare\bin\Debug\2.MaximalSumOfMatrixSquare.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Multidimensional Arrays\MultidimensionalArrays_Homework\MultidimensionalArraysHomework\2.MaximalSumOfMatrixSquare\bin\Debug\2.MaximalSumOfMatrixSquare.pdb
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Multidimensional Arrays\MultidimensionalArrays_Homework\2.MaximalSumOfMatrixSquare\bin\Debug\2.MaximalSumOfMatrixSquare.exe.config
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Multidimensional Arrays\MultidimensionalArrays_Homework\2.MaximalSumOfMatrixSquare\obj\Debug\2.MaximalSumOfMatrixSquare.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\Multidimensional Arrays\MultidimensionalArrays_Homework\2.MaximalSumOfMatrixSquare\obj\Debug\2.MaximalSumOfMatrixSquare.pdb

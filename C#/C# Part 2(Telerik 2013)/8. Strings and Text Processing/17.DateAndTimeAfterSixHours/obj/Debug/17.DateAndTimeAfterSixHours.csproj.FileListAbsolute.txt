@@ -1,0 +1,5 @@
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\StringsAndTextProcessing\StringsAndTextProcessingHomework\17.DateAndTimeAfterSixHours\bin\Debug\17.DateAndTimeAfterSixHours.exe.config
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\StringsAndTextProcessing\StringsAndTextProcessingHomework\17.DateAndTimeAfterSixHours\bin\Debug\17.DateAndTimeAfterSixHours.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\StringsAndTextProcessing\StringsAndTextProcessingHomework\17.DateAndTimeAfterSixHours\bin\Debug\17.DateAndTimeAfterSixHours.pdb
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\StringsAndTextProcessing\StringsAndTextProcessingHomework\17.DateAndTimeAfterSixHours\obj\Debug\17.DateAndTimeAfterSixHours.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\StringsAndTextProcessing\StringsAndTextProcessingHomework\17.DateAndTimeAfterSixHours\obj\Debug\17.DateAndTimeAfterSixHours.pdb

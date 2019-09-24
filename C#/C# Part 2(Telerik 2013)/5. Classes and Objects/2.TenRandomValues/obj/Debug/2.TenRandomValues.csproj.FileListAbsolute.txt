@@ -1,0 +1,5 @@
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\NumeralSystems\NumeralSystems_Homework\ClassesAndObjectsHomework\2.TenRandomValues\bin\Debug\2.TenRandomValues.exe.config
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\NumeralSystems\NumeralSystems_Homework\ClassesAndObjectsHomework\2.TenRandomValues\bin\Debug\2.TenRandomValues.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\NumeralSystems\NumeralSystems_Homework\ClassesAndObjectsHomework\2.TenRandomValues\bin\Debug\2.TenRandomValues.pdb
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\NumeralSystems\NumeralSystems_Homework\ClassesAndObjectsHomework\2.TenRandomValues\obj\Debug\2.TenRandomValues.exe
+C:\Users\Stanislav\Desktop\C#\C# Part 2\Lectures\NumeralSystems\NumeralSystems_Homework\ClassesAndObjectsHomework\2.TenRandomValues\obj\Debug\2.TenRandomValues.pdb

@@ -1,0 +1,5 @@
+c:\users\stanislav\documents\visual studio 2012\Projects\Loops_Homework\DivideTwoFactorials\bin\Debug\DivideTwoFactorials.exe.config
+c:\users\stanislav\documents\visual studio 2012\Projects\Loops_Homework\DivideTwoFactorials\bin\Debug\DivideTwoFactorials.exe
+c:\users\stanislav\documents\visual studio 2012\Projects\Loops_Homework\DivideTwoFactorials\bin\Debug\DivideTwoFactorials.pdb
+c:\users\stanislav\documents\visual studio 2012\Projects\Loops_Homework\DivideTwoFactorials\obj\Debug\DivideTwoFactorials.exe
+c:\users\stanislav\documents\visual studio 2012\Projects\Loops_Homework\DivideTwoFactorials\obj\Debug\DivideTwoFactorials.pdb
